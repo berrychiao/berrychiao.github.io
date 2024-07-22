@@ -1,0 +1,6 @@
+java -jar /home/qiao/serveBoot-0.0.1-SNAPSHOT.jar --server.port=9998
+
+
+nginx -s stop强制关闭
+nginx  启动
+nginx -t 看配置文件
